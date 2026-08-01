@@ -1,0 +1,13 @@
+# Backend (Java/Maven)
+backend/target/
+backend/data/
+
+# Frontend (Node/Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*.local
+
+# OS / editor
+.DS_Store
+*.log
